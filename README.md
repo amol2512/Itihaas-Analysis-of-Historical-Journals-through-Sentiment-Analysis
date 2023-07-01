@@ -25,8 +25,6 @@ The research project employs three state-of-the-art models for sentiment analysi
 
 The models were fine-tuned using the preprocessed dataset and evaluated based on accuracy, precision, recall, and F1-score. The performance of the models was analyzed, considering factors such as data pre-processing, hyperparameter tuning, and model architecture.
 
-## Conclusion
-The research project aims to compare the performance of BERT, DistilBERT, and RoBERTa models for sentiment analysis on historical journals. By analyzing the accuracy, precision, recall, and F1-score of these models, valuable insights can be gained regarding their effectiveness in sentiment analysis of historical texts. The research findings will contribute to improving sentiment analysis of old texts and historical documents and provide guidance on selecting appropriate models for similar applications.
 
 ## Additional
 
